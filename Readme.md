@@ -19,18 +19,6 @@ Planned folder structure:
 
 ```text
 dev-setup-guides/
-├── react/
-│   └── setup.md
-├── nextjs/
-│   └── setup.md
-├── react-native/
-│   └── setup.md
-├── python/
-│   ├── flask-setup.md
-│   └── fastapi-setup.md
-├── tools/
-│   ├── vscode.md
-│   ├── node-installation.md
-│   └── git-basics.md
-└── troubleshooting/
-    └── common-errors.md
+├── ReactNative_Setup/
+│   └── SetUp.md
+|   └── MyFirstApp.md
